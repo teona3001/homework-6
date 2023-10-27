@@ -1,0 +1,218 @@
+* {
+    box-sizing: border-box;
+}
+
+.flex {
+    display: flex;
+}
+
+
+body {
+    background-color: rgb(248, 238, 238);
+}
+
+.deda-bloki1,
+.deda-bloki3,
+.deda-bloki5,
+.deda-bloki7,
+.deda-bloki9,
+.deda-bloki10 {
+    top: 0px;
+    left: 0px;
+    width: 1440px;
+    height: 880px;
+    background-color: rgb(36, 38, 53);
+}
+
+.deda-bloki2,
+.deda-bloki4,
+.deda-bloki6,
+.deda-bloki8,
+.deda-bloki10 {
+    top: 0px;
+    left: 0px;
+    width: 1440px;
+    height: 880px;
+    background-color: antiquewhite;
+}
+
+.deda-bloki1 {
+    margin: 0px 0px 0px 100px;
+}
+
+.tavi {
+    background-color: black;
+}
+
+.bloki13 {
+    padding-left: 200px;
+    left: 0px;
+    width: 1440px;
+    height: 880px;
+}
+
+header {
+    display: flex;
+}
+
+.bloki11 {
+    padding-top: 20px;
+    width: 500px;
+}
+
+img {
+    width: 100%;
+
+}
+
+.logo {
+    width: 100px;
+}
+
+.text1 {
+    color: antiquewhite;
+    width: 200px;
+    top: px;
+    left: 0px;
+
+}
+
+ul {
+    list-style-type: none;
+    margin-left: 0px;
+    padding: 10px;
+    overflow: hidden;
+
+}
+
+li {
+    float: left;
+
+
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 0px 35px;
+    text-decoration: none;
+}
+
+.bloki12 {
+    width: 250px;
+    text-align: center;
+    padding-top: 30px;
+}
+
+button {
+    background-color: rgb(36, 38, 53);
+    border: 1px solid rgb(228, 223, 224);
+    color: aliceblue;
+    width: 100px;
+
+}
+
+.image {
+    float: left;
+    padding-top: 100px;
+}
+
+.image {
+    color: aliceblue;
+    width: 40.4%;
+    height: 600px;
+}
+
+.text2 {
+    color: brown;
+}
+
+.text3 {
+    font-size: 35px;
+}
+
+.text4 {
+    font-size: 20px;
+    color: rgb(161, 161, 167);
+}
+
+.text5 {
+    margin-top: 30px;
+
+}
+
+.text5,
+.text6 {
+    width: 150px;
+}
+
+
+.bloki22 {
+    width: 250px;
+    text-align: center;
+    color: brown;
+    margin: 80px auto auto auto
+}
+
+.bloki23 {
+    width: 530px;
+    text-align: center;
+    font-size: 30px;
+    margin: auto;
+}
+
+.bloki27 {
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid rgb(251, 128, 5);
+    width: 900px;
+    margin: auto
+}
+
+.bloki24 {
+    width: 450px;
+    height: 250px;
+    padding: 15px;
+
+}
+
+.bloki25 {
+    width: 70px;
+    height: 70px;
+    background-color: #f02607;
+    border-radius: 100%;
+    display: flex;
+}
+
+.bloki255 {
+    margin: auto;
+}
+
+.bloki28 {
+    border-left: 1px solid rgb(251, 128, 5);
+    width: 450px;
+    height: 250px;
+    padding: 15px;
+
+}
+
+.items-center {
+    align-items: center;
+}
+
+.design, .development{
+    padding-left: 10px;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+.endbox {
+    width: 250px;
+    text-align: center;
+    margin: 80px auto auto auto
+}
+
+.endlink {
+    font-weight: bold;
+}
